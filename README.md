@@ -14,9 +14,9 @@ Execute the `build` script or manually run the commands written in it.
 ### Running box ###
 
 ```shell
-vagrant init 'openbsd53'
+vagrant init 'openbsd55'
 vagrant up
 ```
 
-You should be able now to do `vagrant ssh` to access your OpenBSD 5.3 VM.
+You should be able now to do `vagrant ssh` to access your OpenBSD 5.5 VM.
 
